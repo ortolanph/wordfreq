@@ -1,0 +1,1 @@
+I have another idea for a project in ZIG. I input a word (with commas and other punctuations signs and special characters), it removes the vowels and return me a String only with upper case consonants.

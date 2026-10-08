@@ -1,0 +1,3 @@
+Zig is a general-purpose language. Zig has no hidden control flow,
+no hidden allocations. Allocation is explicit; the allocator is
+passed in. The compiler is also a build system and a C compiler.
